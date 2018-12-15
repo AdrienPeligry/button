@@ -1,0 +1,145 @@
+
+
+
+h1 /* Utilisation de la police qu'on vient de définir sur les titres */
+{
+    font-family:  glosa, sans serif; serif;
+}
+h2 /* Utilisation de la police qu'on vient de définir sur les titres */
+{
+    font-family:  glosa, sans serif; serif;
+}
+h3 /* Utilisation de la police qu'on vient de définir sur les titres */
+{
+    font-family:  glosa, sans serif; serif;
+}
+h4 /* Utilisation de la police qu'on vient de définir sur les titres */
+{
+    font-family:  glosa, sans serif; serif;
+}
+p /* Utilisation de la police qu'on vient de définir sur les titres */
+{
+    font-family:  glosa, sans serif; serif;
+}
+
+em
+{
+    font-style: italic;
+}
+
+strong
+{
+    font-family: courier new;
+}
+strong
+{
+    font-size: 1.1em}
+strong
+{
+  text-decoration: none;
+}
+
+
+body 
+{
+
+width: 650px;
+margin-left: auto;
+margin-right: auto;
+
+}
+    
+P { line-height: 160% } 
+
+body 
+{
+
+padding-top: 10px;
+padding-bottom: 17px;
+
+}
+
+h1
+{
+    color: #444444	;
+}
+h2
+{
+    color: #444444	;
+}
+
+
+
+h3
+{
+    color: #444444	;
+}
+
+h4
+{
+    color: #444444	;
+}
+
+p
+{
+    color: #444444	;
+}
+
+
+
+
+
+ul 
+{
+    color: #444444	;
+}
+
+blockquote
+
+
+{
+    color: #444444	;
+}
+
+h1
+{
+    font-size: 36px;	
+}
+
+h2
+{
+    font-size: 1.7em	;
+}
+h3
+{
+    font-size: 1.3em	;
+}
+h4
+{
+    font-size: 1.1em	;
+}
+
+
+p
+
+{
+    font-size: 1.1em	;
+}
+
+ul
+{
+    font-size: 1.1em	;
+}
+ul > li {
+  margin: .5em 0;
+  line-height: 1.15;
+}
+
+blockquote
+{
+    font-size: 1.1em	;
+    font-family:  glosa, sans serif; serif;
+    line-height: 160% 
+
+}
+}
